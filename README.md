@@ -1,5 +1,5 @@
 # pn_avis #
-Dette er mig og Pilely's Avis script, hvor du kan gå hen og købe en avis til 100 kroner. Og så gå ind i din F9 menu og tryk > Brug hvor der kommer et UI Frem.
+Dette er Nicki og jeg's Avis script, hvor du kan gå hen og købe en avis til 100 kroner. Og så gå ind i din F9 menu og tryk > Brug hvor der kommer et UI Frem.
 
 ## VIGTIGT ##
 Item'et bliver defineret inde i scriptet så du skal ikke selv oprette det.
